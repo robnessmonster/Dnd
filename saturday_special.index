@@ -1,0 +1,12 @@
+<index>
+	<info>
+		<name>Saturday Special</name>
+		<description>Saturday Special Race</description>
+			<file name="saturday_special.index" url="https://github.com/robnessmonster/Dnd/blob/master/saturday_special.index"/>
+		</update>
+	</info>
+	<files>	
+		<!-- races -->
+		<file name="ElfNM.xml"="https://github.com/robnessmonster/Dnd/blob/master/ElfNM.xml"/>
+		</files>
+</index>
