@@ -1,0 +1,10 @@
+<index>
+	<info>
+		<name>Saturday Special</name>
+		<description>Saturday Special Race</description>
+			<file name="saturday_special.index" url="https://github.com/robnessmonster/Dnd/blob/master/ElfNM.xml"/>
+		</update>
+	</info>
+	<files>	
+		<!-- races -->
+		<file name="race-dragonborn.xml" url="C:\Users\rober\Documents\5e Character Builder\custom\ElfNM.xml"/>
